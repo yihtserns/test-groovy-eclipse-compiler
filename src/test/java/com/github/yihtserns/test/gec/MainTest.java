@@ -5,6 +5,8 @@
  */
 package com.github.yihtserns.test.gec;
 
+import com.github.yihtserns.test.gec.java.DependsOnGroovyClass;
+import com.github.yihtserns.test.gec.groovy.DependsOnJavaClass;
 import junit.framework.Assert;
 import org.junit.Test;
 
